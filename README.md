@@ -31,7 +31,8 @@ https://github.com/shariqhassan-kh/BigBasket-Supply-Chain-Capstone
 A demand analysis dashboard supporting supply chain decision-making in forecasting, inventory planning, and regional distribution.
 
 Repository:
-https://github.com/shariqhassan-kh/PowerBI-SupplyChain-Dashboard
+https://github.com/shariqhassan-kh/supply-chain-kpi-dashboard
+
 
 🛠️ **Skills & Tools**
 Supply Chain Management (SCOR, Procurement, Inventory, Logistics)
