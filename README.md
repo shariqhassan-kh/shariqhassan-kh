@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 **Hi, I'm Shariq Hassan K H**
 
-<!--
-**shariqhassan-kh/shariqhassan-kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Supply Chain & Operations Professional**
+Power BI • Excel • Inventory Planning • Demand Analysis • Logistics • Procurement
 
-Here are some ideas to get you started:
+I am transitioning into Supply Chain Management after 7 years of experience in operations and documentation.
+I enjoy solving business problems using analytics, dashboards, and SCM concepts such as forecasting, inventory control, and fulfillment optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **My Projects**
+
+   **Supply Chain Projects**
+
+📌 **Inventory Management Project (EOQ, ROP, Safety Stock)**
+
+Core SCM calculations for safety stock, reorder point, and order optimization.
+Repository:
+https://github.com/shariqhassan-kh/Inventory-Management-EOQ-SafetyStock-ROP
+
+📌 **BigBasket Supply Chain Case Study**
+
+Analysis of BigBasket’s supply chain operations, challenges, and improvement opportunities.
+Repository:
+https://github.com/shariqhassan-kh/BigBasket-Supply-Chain-Capstone
+
+📊 **Analytics & BI Projects**
+
+**Supply Chain KPI Dashboard – AdventureWorks (Power BI)**
+
+A demand analysis dashboard supporting supply chain decision-making in forecasting, inventory planning, and regional distribution.
+Repository:
+https://github.com/shariqhassan-kh/PowerBI-SupplyChain-Dashboard
+
+🛠️ **Skills & Tools**
+Supply Chain Management (SCOR, Procurement, Inventory, Logistics)
+Power BI (DAX, Power Query, Modelling)
+Excel (Pivot, Dashboarding, Functions)
+Data Cleaning & Transformation
+KPI Reporting & Business Insights
+
+📬 **Connect With Me**
+
+LinkedIn:
+https://www.linkedin.com/in/shariq-hassan-58b4a3104
