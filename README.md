@@ -13,12 +13,14 @@ I enjoy solving business problems using analytics, dashboards, and SCM concepts 
 📌 **Inventory Management Project (EOQ, ROP, Safety Stock)**
 
 Core SCM calculations for safety stock, reorder point, and order optimization.
+
 Repository:
 https://github.com/shariqhassan-kh/Inventory-Management-EOQ-SafetyStock-ROP
 
 📌 **BigBasket Supply Chain Case Study**
 
 Analysis of BigBasket’s supply chain operations, challenges, and improvement opportunities.
+
 Repository:
 https://github.com/shariqhassan-kh/BigBasket-Supply-Chain-Capstone
 
@@ -27,6 +29,7 @@ https://github.com/shariqhassan-kh/BigBasket-Supply-Chain-Capstone
 **Supply Chain KPI Dashboard – AdventureWorks (Power BI)**
 
 A demand analysis dashboard supporting supply chain decision-making in forecasting, inventory planning, and regional distribution.
+
 Repository:
 https://github.com/shariqhassan-kh/PowerBI-SupplyChain-Dashboard
 
